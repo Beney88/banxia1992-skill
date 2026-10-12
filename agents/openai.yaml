@@ -1,0 +1,5 @@
+interface:
+  display_name: "半夏1992-skill"
+  short_description: "从实盘与交易感悟学习低位接力、补涨切换及仓位风控，并形成条件化预案"
+  default_prompt: "使用 $banxia1992-skill，先判断市场风格是否适配，再分析补涨与切换机会，给出证据、入场条件、失效条件和仓位边界。"
+
